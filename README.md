@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **cristom.estevez@gmail.com**
 
-<h3 align="left">Know about me</h3>
+<h3 align="left">Know about me:</h3>
 <p>I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team. I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cristo-estevez" target="blank"><img align="center" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="cristo-estevez" height="auto" width="40" /></a>
+<a href="https://linkedin.com/in/cristo-estevez" target="blank"><img align="center" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="cristo-estevez" height="auto" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
