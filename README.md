@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **cristom.estevez@gmail.com**
 
-- 📄 Know about me [I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team.](I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team.)
+<h3 align="left">Know about me</h3>
+<p>I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team. I am very methodical and organised in my work, as well as being a person who learns continuously and constantly in order to always be at the forefront of technology. I have a great ability to transfer knowledge and work in a team.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
