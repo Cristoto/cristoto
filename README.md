@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cristo-estevez" target="blank"><img align="center" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="cristo-estevez" height="auto" width="60" /></a>
+<a href="https://linkedin.com/in/cristo-estevez" target="_blank"><img align="center" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="cristo-estevez" height="auto" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
